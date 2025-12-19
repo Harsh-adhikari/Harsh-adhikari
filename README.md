@@ -27,7 +27,7 @@
 
 💬 **Ask me about:** React, Node.js, Express, REST APIs, SQL
 
-📫 **How to reach me:** harshadhikari010@gmail.com
+📫 **How to reach me:** harshadhikari1001@gmail.com
 
 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1fiq1rpEX5hT5s5qDzzr25Tg6QDk3kG4P/view?usp=shari)
 
