@@ -17,19 +17,19 @@
 
 ## 🎯 About Me
 
-🔭 **Currently working on:** [Course Selling Website](https://codenix.netlify.app/)
+🔭 **Currently working on:** [Orbitto (Random chat app) ](https://orbittoxx.onrender.com/)
 
 🌱 **Currently learning:** React.js, Node.js, Express.js, SQL and database design
 
 👯 **Looking to collaborate on:** Open-source MERN stack projects & Creative frontend applications with animations
 
-💼 **Portfolio:** [https://eclectic-sorbet-478204.netlify.app/](https://eclectic-sorbet-478204.netlify.app/)
+💼 **Portfolio:** [https://harsh-portfoliov1.onrender.com](https://harsh-portfoliov1.onrender.com)
 
 💬 **Ask me about:** React, Node.js, Express, REST APIs, SQL
 
 📫 **How to reach me:** harshadhikari010@gmail.com
 
-📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1fiq1rpEX5hT5s5qDzzr25Tg6QDk3kG4P/view?usp=sharing)
+📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1fiq1rpEX5hT5s5qDzzr25Tg6QDk3kG4P/view?usp=shari)
 
 ⚡ **Fun fact:** I love exploring new technologies and adding my own twist to them 😄
 
